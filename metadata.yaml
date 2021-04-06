@@ -8,12 +8,17 @@ contributor:
   - agent_name: Brasol, Boris Leo
     gutenberg_agent_id: '53125'
     url: http://www.gutenberg.org/2009/agents/53125
+covers:
+- cover_type: archival
+  image_path: 64977-h/images/cover.jpg
 creator:
   author:
     agent_name: Nilus, Sergei Aleksandrovich
     gutenberg_agent_id: '53123'
     url: http://www.gutenberg.org/2009/agents/53123
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64977#The-Protocols-and-World-Revolution-Including-a-Translation-and-Analysis-of-the-Protocols-of-t_
 gutenberg_issued: '2021-03-31'
 gutenberg_type: Text
 identifiers:
